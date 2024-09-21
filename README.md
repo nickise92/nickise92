@@ -1,4 +1,14 @@
-## Hi there 👋
+## Welcome! 
+
+### Short presentation
+- I am a student of Computer Science at Università degli Studi di Verona.
+- I'm currently searching for job
+- I like C, C++, Java and Python. I know the basics of these languages and I look forward to putting my acquired knowledge into practice and gaining new ones.
+- I play Bass Guitar in a band called Whiskey Pigs. What? You didn't hear of us? You will soon enough!
+
+### Myself in detail
+
+< work in progress >
 
 <!--
 **nickise92/nickise92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
